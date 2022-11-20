@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crypto Coins</string>
+    <string name="price">Price</string>
+    <string name="liked_star">Liked star</string>
+    <string name="usd">USD</string>
+    <string name="coin_image">Coin image</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="highest_value_for_last_24_h">Highest value for last 24 h</string>
+    <string name="percentage_price_change_for_last_24h">Percentage price change for last 24h</string>
+    <string name="percentage_market_cap_change_for_last_24h">Percentage market cap change for last 24h</string>
+    <string name="lowest_value_for_last_24_h">Lowest value for last 24 h</string>
+    <string name="coin_logo">Coin Logo</string>
+    <string name="like_button">Like button</string>
+</resources>
